@@ -1,21 +1,80 @@
-# 💫 About Me:
-Aspiring deep learning and machine learning professional with a strong foundation in neural networks, algorithms, and<br> data analysis. Passionate about applying cutting-edge deep learning techniques to solve challenging problems. Looking<br> to contribute to innovative AI-driven projects in areas like computer vision, NLP, and predictive analytics while continuing<br> to grow in a dynamic organization that values continuous learning
+# 🚀 PRABHA SURESH - AI ENGINEER
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6,7&height=200&section=header&text=PRABHA%20SURESH&fontSize=60&fontColor=white&animation=fadeIn&desc=AI%20Engineer%20%7C%20Deep%20Learning%20Innovator&descAlignY=65&descAlign=62" alt="Profile Header"/>
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prabha-suresh-47b6b2293) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prabhasuresh2006@gmail.com) 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&color=00F7F7&center=true&vCenter=true&width=800&lines=🤖+Deep+Learning+Architect;🧠+Neural+Network+Explorer;🚀+AI+Innovation+Catalyst;💡+Intelligent+Systems+Designer" alt="Animated Tech Roles"/>
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=plastic&logo=ros&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=plastic&logo=javafx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=plastic&logo=openapiinitiative&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=plastic&logo=wireguard&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PrabhaSuresh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PrabhaSuresh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhaSuresh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🤖 About Me:
+Aspiring innovative AI Engineer with a sharp analytical mindset, adept at unraveling complex challenges in computer vision, deep learning, and edge AI deployment. Proficient in Python, OpenCV, YOLO, ROS 2, and LLM fine-tuning, seamlessly integrating intelligence into real-world applications. A strategic problem solver with a deep intuition for AI-driven automation and autonomous systems.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PrabhaSuresh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🌐 Bing me Through:
+<div align="center">
+  <a href="https://linkedin.com/in/prabha-suresh-47b6b2293">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=fadeIn" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:prabhasuresh2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=fadeIn" alt="Email"/>
+  </a>
+</div>
+
+## 💻 My technical Stuffs:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,opencv,flask,mysql,git,github,html,css,java,c,arduino,raspberrypi&perline=8" alt="Tech Stack" />
+</div>
+
+## 🤖 Robotic Performance Analytics:
+<div align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api/github-profile-3d-contrib?username=PrabhaSuresh&theme=tokyonight" alt="3D Contribution Graph"/>
+</div>
+
+### Quantum Metrics:
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrabhaSuresh&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=FFC83D&text_color=9f9f9f&bg_color=151515" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PrabhaSuresh&theme=radical&hide_border=true&background=151515&stroke=FFC83D&ring=FFC83D&fire=FFC83D&currStreakNum=9f9f9f&sideNums=9f9f9f" alt="GitHub Streak"/>
+</div>
+
+### Language Neural Network:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhaSuresh&theme=radical&hide_border=true&layout=compact&bg_color=151515&text_color=9f9f9f" alt="Top Languages"/>
+</div>
+
+## 🏆 Cybernetic Achievement Matrix:
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PrabhaSuresh&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+## 🛠️ Technology Quantum Spectrum:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,ros,flask,docker,kubernetes,linux,cloudflare,nginx" alt="Advanced Tech Stack"/>
+</div>
+
+### Specialized Tech Domains:
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=darknet&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+## 🔬 Development Quantum Entanglement:
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=PrabhaSuresh&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+## 👁️ Quantum Observation Metrics:
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrabhaSuresh&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PrabhaSuresh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6,7&height=120&section=footer" alt="Quantum Footer Wave"/>
+</div>
+
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-science.svg" alt="Built with Science"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
+</div>
