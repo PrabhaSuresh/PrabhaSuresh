@@ -80,18 +80,17 @@
   </picture>
 </div>
 
-## 👁️ Profile Views:
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=PrabhaSuresh&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </div>
 
-
-💡 Inspirational Quote:
 <div align="center">
   <h3>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Don't+worry+about+the+result+and+trust+the+process" alt="Inspirational Quote"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Don't+worry+about+the+result+but+trust+the+process" alt=""/>
   </h3>
 </div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,5,6,7&height=120&section=footer" alt="Footer Wave"/>
