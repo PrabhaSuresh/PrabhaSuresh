@@ -1,8 +1,9 @@
 # 🚀 PRABHA SURESH - AI Engineering Innovator
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6,7&height=250&section=header&text=PRABHA%20SURESH&fontSize=70&fontColor=white&animation=twinkling&desc=AI%20Engineer%20%7C%20Deep%20Learning%20Visionary&descAlignY=70&descAlign=62" alt="Profile Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6,7&height=250&section=header&text=PRABHA%20SURESH&fontSize=70&fontColor=white&animation=twinkling&desc=AI%20Engineer%20%7C%20Deep%20Learning%20Visionary&descAlignY=70&descAlign=62" alt="Gradient Wave Header"/>
 </div>
+
 
 <!-- Animated Coding Human -->
 <div align="center">
