@@ -73,21 +73,26 @@
 
 ## 📈 Activity Graph:
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=PrabhaSuresh&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PrabhaSuresh&theme=react-dark&bg_color=20232a&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PrabhaSuresh&theme=github&hide_border=true"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrabhaSuresh&theme=github&hide_border=true" alt="Contribution Graph"/>
+  </picture>
 </div>
 
 ## 👁️ Profile Views:
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=PrabhaSuresh&icon=5&color=0" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=PrabhaSuresh&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </div>
 
----
 
+💡 Inspirational Quote:
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6,7&height=120&section=footer" alt="Footer Wave"/>
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Don't+worry+about+the+result+and+trust+the+process" alt="Inspirational Quote"/>
+  </h3>
 </div>
 
 <div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-science.svg" alt="Built with Science"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,5,6,7&height=120&section=footer" alt="Footer Wave"/>
 </div>
